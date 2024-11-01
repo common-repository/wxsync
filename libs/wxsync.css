@@ -1,0 +1,14 @@
+.wxsyncmain * {
+    max-width: 100%!important;
+}
+.wxsyncmain img{
+    height: auto !important;
+}
+
+.aplayer div.aplayer-pic {
+    background-color: transparent !important;
+}
+
+.aplayer span.aplayer-author {
+    display: none;
+}
